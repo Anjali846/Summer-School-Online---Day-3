@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog layout with CSS Grid and Sticky Sidebar</title>
+    <link rel=""stylesheet"href="style.css">
+    </head>
+         <body>
+            <div class=""container">
+                <header>
+                    <h1>My Blog</h1>
+                </header>
+            
+                <nav class=""slidebar-nav>
+   <ul>
+    <li> <a href="#page1">Home</a> </li>
+    <li> <a href="#page2">About</a> </li>
+    <li> <a href="#page3">Contact</a> </li>
+    <li> <a href="#page4">Login</a> </li>
+    <li> <a href="#page5">Signup</a> </li>
+   </ul>
+                </nav>
+                <main>
+
+        
+            <section id="page1">
+            <h2>Home</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium nulla id amet, perferendis provident nostrum maiores neque temporibus itaque voluptates explicabo quos quas dolorem ducimus numquam cupiditate veniam sunt ex beatae laboriosam repudiandae? Adipisci, porro quia amet cupiditate ullam nostrum voluptatum autem culpa impedit quasi, omnis iusto possimus odit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit quidem quia adipisci, voluptate quas tempora. Autem mollitia quibusdam ipsa eveniet, voluptas corporis dolores unde animi voluptate, quaerat nisi repellat quisquam laboriosam necessitatibus delectus cumque amet adipisci! Mollitia animi asperiores voluptate vel! Totam architecto aliquid nulla quasi. Assumenda culpa voluptatibus adipisci eum ex possimus quas neque at qui earum reiciendis ipsam rerum dolorum obcaecati voluptatem error saepe laboriosam sapiente doloribus in iure, dolorem soluta. Unde laborum accusamus earum, facere esse minima eius ex eos quo repellat dolorum ipsa inventore? Sunt commodi ratione facilis provident? Magni, quibusdam! Consequuntur labore est dolore blanditiis.</p>
+
+            </section>
+            <section id="page2">
+            <h2>About</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium nulla id amet, perferendis provident nostrum maiores neque temporibus itaque voluptates explicabo quos quas dolorem ducimus numquam cupiditate veniam sunt ex beatae laboriosam repudiandae? Adipisci, porro quia amet cupiditate ullam nostrum voluptatum autem culpa impedit quasi, omnis iusto possimus odit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti perferendis dolores soluta error. Autem nobis iure repudiandae cum inventore illo eaque adipisci quaerat aliquid voluptas, harum hic tenetur, totam magni labore. Non numquam dolorem libero, laborum qui harum autem quasi a esse officiis eum quae rerum veniam ipsum? Accusamus, recusandae? Accusamus saepe velit magnam vitae! Velit ipsum ullam labore harum cum sunt est quis maxime provident molestias odit aperiam accusamus molestiae, delectus, recusandae neque repellendus odio cumque inventore beatae et perferendis asperiores optio. Sunt voluptatibus, ut quos ab adipisci debitis ipsam eligendi quaerat rerum fugit suscipit corporis alias aspernatur repellendus.</p>
+
+            </section>
+            <section id="page3">
+            <h2>Contact</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium nulla id amet, perferendis provident nostrum maiores neque temporibus itaque voluptates explicabo quos quas dolorem ducimus numquam cupiditate veniam sunt ex beatae laboriosam repudiandae? Adipisci, porro quia amet cupiditate ullam nostrum voluptatum autem culpa impedit quasi, omnis iusto possimus odit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero qui, natus voluptatum quae saepe quisquam quod nemo dolor. Maiores natus fugiat reiciendis cumque praesentium voluptatum libero aliquam deserunt atque itaque molestias, earum, numquam nobis, sequi explicabo sint. Quam ex consequuntur esse officiis porro consectetur, voluptatem officia deserunt quos blanditiis aperiam!</p>
+
+            </section>
+            <section id="page4">
+            <h2>Login</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi at et praesentium ratione eos voluptas iure facilis quod molestias, reprehenderit maiores labore iusto architecto doloribus modi ullam nemo veniam blanditiis.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione reprehenderit dignissimos similique perspiciatis ex vero impedit ad tenetur, omnis quibusdam vitae sed sapiente autem amet fuga quae corporis pariatur aspernatur enim culpa cumque nesciunt eaque non! Sint perferendis ad quibusdam, cupiditate, cumque ea exercitationem ab consectetur autem quis ex, officiis recusandae! A exercitationem aspernatur porro commodi totam quis velit sunt veniam suscipit at est hic laudantium temporibus fugiat unde, facilis perspiciatis odit deserunt voluptatem pariatur. Incidunt voluptas maxime quos aliquid atque! Deserunt repudiandae ipsam est nostrum nulla numquam. Debitis tenetur suscipit fugit repellat numquam ad, dignissimos culpa cum excepturi dolorum velit facilis vel labore dolor non natus illum soluta adipisci aspernatur quas aut ipsam nesciunt. Dicta odio illum consectetur cupiditate velit quaerat facilis non exercitationem quisquam doloremque, iusto odit! Consequuntur magnam ratione, rem maiores pariatur illo? Reiciendis rem quae, vitae at esse sequi earum! Nisi distinctio, ea pariatur architecto nulla necessitatibus explicabo deserunt provident consequatur, corporis in quasi eveniet suscipit doloremque iure aliquam culpa odio recusandae veniam porro, reprehenderit quis illum. Suscipit voluptates qui necessitatibus similique delectus, repudiandae mollitia autem aspernatur hic facere totam ullam, explicabo nulla maxime eum ipsam fuga ipsum asperiores nobis beatae minus incidunt cum! Maiores, odio.</p>
+
+            </section>
+            <section id="page5">
+                <h2>Signup</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim voluptate commodi sapiente doloribus, quam cumque est corporis sit iure harum ab dolorum temporibus velit, deserunt ipsa ut magnam. Dignissimos obcaecati modi, ea voluptatibus sapiente dolores culpa optio saepe dolor quasi?</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod id, a expedita, mollitia voluptatum voluptate, veritatis sed reprehenderit laudantium explicabo eaque modi? Placeat ad corporis nam officia mollitia nihil molestiae illum aliquid, perferendis asperiores cupiditate pariatur deserunt dignissimos aut magnam, ducimus alias aperiam reiciendis, adipisci vitae? Vero ipsum ipsam sed quisquam illo quidem quam! Accusamus corporis nisi alias, exercitationem et eius fugiat placeat itaque ab voluptas a laudantium. Temporibus laboriosam incidunt natus, blanditiis reiciendis, nisi quasi placeat cupiditate impedit expedita sapiente est. Excepturi deserunt consequuntur amet est, provident assumenda ipsa quos alias expedita repellendus quibusdam velit deleniti officiis repellat suscipit eum facilis. Eum impedit tempora sunt architecto mollitia et vitae nisi corporis perspiciatis voluptates? Neque soluta provident magnam quibusdam architecto rem illo ipsam delectus ut quis illum alias inventore doloribus ducimus labore, voluptatibus voluptate esse libero modi odit vero eligendi vel? Laborum quis porro quasi praesentium vel possimus veniam. Animi esse molestiae temporibus voluptas saepe totam veniam vel necessitatibus consequatur praesentium sed, cupiditate ullam. Officiis, perspiciatis iusto neque quibusdam doloribus repellat, laborum fugiat esse cumque, eum quis ducimus consequatur unde eius corporis ab facilis perferendis. Voluptatibus fuga eaque provident debitis excepturi atque quod quisquam! Error in ea reiciendis quod repellat, aliquid incidunt modi eaque. Illo, sint! Placeat, suscipit voluptatem! Repudiandae.</p>
+            </section>
+            
+            </main>
+            <footer>
+                <p>My Blog &hearts;</p>
+            </footer>
+            </div>
+            </body>
+            </html>
+      </div>
+    
+</body>
+</html>
